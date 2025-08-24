@@ -1,3 +1,4 @@
 Hello 
 HI
 method
+newmethod
